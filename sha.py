@@ -1,6 +1,6 @@
 # Python 3 code to demonstrate 
 # SHA hash algorithms. 
-
+# all SHA combined
 import hashlib 
 
 # initializing string 
